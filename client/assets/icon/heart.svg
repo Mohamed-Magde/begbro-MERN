@@ -1,0 +1,18 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="38.941"
+  height="34.348"
+  viewBox="0 0 38.941 34.348"
+>
+  <path
+    id="Icon_feather-heart"
+    data-name="Icon feather-heart"
+    d="M35.492,7.269a9.457,9.457,0,0,0-13.377,0L20.293,9.091,18.47,7.269A9.459,9.459,0,1,0,5.094,20.646l1.823,1.823L20.293,35.845,33.67,22.468l1.823-1.823a9.457,9.457,0,0,0,0-13.377Z"
+    transform="translate(-0.823 -2.997)"
+    fill="none"
+    stroke="#fff"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    stroke-width="3"
+  />
+</svg>
